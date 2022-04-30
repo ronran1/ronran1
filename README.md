@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ron</h1>
 <h3 align="center">A passionate software engineer from the Bay Area</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronran1" alt="ronran1" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
